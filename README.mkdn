@@ -21,7 +21,7 @@ For more help on using this tool, use this command: repo help upload
 Make your changes and commit with a detailed message, starting with what you are working with (i.e. vision: Update Kernel)
 Commit your patches in a single commit. Squash multiple commit using this command: git rebase -i HEAD~<# of commits>
 
-To view the status of your and others' patches, visit [PecanCM Code Review](http://review.pecancm.insomnia247.nl/)
+To view the status of your and others' patches, visit [PecanCM Code Review](http://review.pecancm.org/)
 
 
 Getting Started
@@ -44,4 +44,4 @@ Please see the [PecanCM Wiki](http://wiki.cyanogenmod.org/) for building instruc
 Build Server
 --------
 
-You can view the current build statuses at [PecanCM Jenkins](http://builder.pecancm.insomnia247.nl/)
+You can view the current build statuses at [PecanCM Jenkins](http://jenkins.pecancm.org/)
