@@ -1,6 +1,6 @@
-===========
- PecanCM
-===========
+=================
+ PecanCM Project
+=================
 
 Submitting Patches
 ------------------
@@ -38,7 +38,7 @@ Then to sync up:
 
     repo sync
 
-Please see the [PecanCM Wiki](http://wiki.cyanogenmod.org/) for building instructions.
+Please see the [PecanCM Wiki](http://wiki.pecancm.org/) for building instructions.
 
 
 Build Server
