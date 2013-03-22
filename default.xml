@@ -6,12 +6,7 @@
   <project name="device/google/accessory/arduino"/>
   <project name="device/google/accessory/demokit"/>
   <project name="device/qcom/common"/>
-  <project name="device/sample"/>
-  <project name="device/samsung/maguro"/>
-  <project name="device/samsung/tuna"/>
-  <project name="device/ti/panda"/>
   <project name="kernel/lk" path="bootable/bootloader/lk"/>
-  <project name="kernel/msm" path="kernel"/>
   <project name="platform/abi/cpp" path="abi/cpp"/>
   <project name="platform/bionic" path="bionic"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy"/>
@@ -258,12 +253,6 @@
   <project name="platform/vendor/qcom-opensource/v8" path="vendor/qcom/opensource/v8"/>
   <project name="platform/vendor/qcom-opensource/webkit" path="vendor/qcom/opensource/webkit"/>
   <project name="platform/vendor/qcom/android-open" path="vendor/qcom/android-open"/>
-  <project name="platform/vendor/qcom/copper" path="device/qcom/copper"/>
   <project name="platform/vendor/qcom/msm7627_6x" path="device/qcom/msm7627_6x"/>
   <project name="platform/vendor/qcom/msm7627_surf" path="device/qcom/msm7627_surf"/>
-  <project name="platform/vendor/qcom/msm7627a" path="device/qcom/msm7627a"/>
-  <project name="platform/vendor/qcom/msm7630_fusion" path="device/qcom/msm7630_fusion"/>
-  <project name="platform/vendor/qcom/msm7630_surf" path="device/qcom/msm7630_surf"/>
-  <project name="platform/vendor/qcom/msm8660_surf" path="device/qcom/msm8660_surf"/>
-  <project name="platform/vendor/qcom/msm8960" path="device/qcom/msm8960"/>
 </manifest>
