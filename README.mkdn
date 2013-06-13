@@ -1,8 +1,8 @@
 Getting Started
 ---------------
 
-To get started with Android for ARMv6/PecanCM/CyanogenMod, you'll need to get
-familiar with [Git and Repo](http://source.android.com/download/using-repo).
+To get started with Android/CyanogenMod/PecanCM/androidarmv6, you'll need to get
+familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
 We have a gerrit instance at review.pecancm.insomnia247.nl. Please don't try to push directly to github.
 
@@ -20,7 +20,7 @@ Then to sync up:
 Please see the [CyanogenMod Wiki](http://wiki.cyanogenmod.org/) for building instructions.
 
 For more information on this Github Organization and how it is structured, 
-please [read the wiki article](http://wiki.cyanogenmod.org/index.php/Github_Organization)
+please [read the wiki article](http://wiki.cyanogenmod.org/w/Github_Organization)
 
 Join us on #PecanCM
 
