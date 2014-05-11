@@ -408,7 +408,7 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" remote="aosp" revision="refs/tags/android-4.3.1_r1" groups="pdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" remote="aosp" revision="refs/tags/android-4.3.1_r1" groups="pdk,tools" />
   <project path="sdk" name="CyanogenMod/android_sdk" />
-  <project groups="pdk" name="androidarmv6/android_system_bluetooth" path="system/bluetooth" "/>
+  <project groups="pdk" name="androidarmv6/android_system_bluetooth" path="system/bluetooth" />
   <project groups="pdk" name="androidarmv6/android_system_core" path="system/core" />
   <project groups="pdk" name="androidarmv6/android_system_netd" path="system/netd" />
   <project name="androidarmv6/android_vendor_cm" path="vendor/cm" />
